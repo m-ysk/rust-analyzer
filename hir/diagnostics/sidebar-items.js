@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DiagnosticSink",""],["DiagnosticSinkBuilder",""],["InactiveCode",""],["IncorrectCase",""],["MismatchedArgCount",""],["MissingFields",""],["MissingMatchArms",""],["MissingOkInTailExpr",""],["NoSuchField",""],["UnresolvedModule",""]],"trait":[["Diagnostic",""]]});
